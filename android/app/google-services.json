@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "129899956080",
+    "project_id": "testtodo-a0ed3",
+    "storage_bucket": "testtodo-a0ed3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129899956080:android:dc8b412c168b51c18a31b5",
+        "android_client_info": {
+          "package_name": "com.practiceappreactnativecli"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129899956080-5eof6n547uv7dv1ru3vjb19dd7l6kpgb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOlbRyZ_X1CNAIjy5niqlYqHV06fiYO7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129899956080-5eof6n547uv7dv1ru3vjb19dd7l6kpgb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
